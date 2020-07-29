@@ -16,11 +16,11 @@ The code is split into two parts.
 
 ## Part 1 
 
-Click [here](/RobotCode/main.cpp) to view the main code for the robot algorithm 
+Click [here](/RobotCode/main.cpp) to view the main code for the robot algorithm. The name of the file called main.cpp in C++.
 
 ## Part 2
 
-Click [here](/GUI/Form1BU.cs) to see the GUI code
+Click [here](/GUI/Form1BU.cs) to view the main code for the GUI for calculting the algorithms for the robot cordinates. The name of the file called Form1BU.cs in C#. 
 
 ![ImageText](imageName.JPG?raw=true "Description")
 
