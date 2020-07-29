@@ -8,7 +8,7 @@ The code is split into two parts.
 - Part 1 (The Robot which has an algorithm for controlling the robot's motor wheels from the (x,y) coordinates which are transmitted and sent to the robot.  
 - Part 2 (The GUI which process images from a Webcam into (x,y) coordinates).
 
-For more details on the project report please Click [here](/Bachelor of Enginnering final report.pdf).
+For more details on the project report please Click [here](/Full_Final_Year_Report.pdf) .
 
 **Bold** text
 
