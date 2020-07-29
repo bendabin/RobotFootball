@@ -16,7 +16,7 @@ The code is split into two parts.
 
 ## Part 1 
 
-The GUI.
+Click [here](/RobotCode) to see the GUI code
 
 ## Part 2
 
