@@ -22,4 +22,6 @@ Click [here](/RobotCode) to see the GUI code
 
 Click [here](/GUI) to see the GUI code
 
+![ImageText](imageName.JPG?raw=true "Description")
+
 The code to control the robots.
