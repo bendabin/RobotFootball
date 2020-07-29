@@ -5,8 +5,8 @@ This is a final year University Project, which consists of a GUI(Graphical User 
 
 The code is split into two parts. 
 
-- List 1
-- List 2
+- Part 1 (The Robot which has an algorithm for controlling the robot's motor wheels from the (X,Y) coordinates which are transmitted and sent to the robot.  
+- Part 2 (The GUI which process images from a Webcam into (X,Y) coordinates).
 
 **Bold** text
 
