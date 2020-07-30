@@ -18,11 +18,11 @@ For more details on the project report please Click [here](/Full_Final_Year_Repo
 
 ## Part 1 
 
-Click [here](/RobotCode/main.cpp) to view the code for the robot algorithm. The name of the file is called main.cpp in C++.
+Click [here](/RobotCode/main.cpp) to view the code for the robot algorithm. The name of the file is called main.cpp and is written in C++.
 
 ## Part 2
 
-Click [here](/GUI/Form1BU.cs) to view the main code for the GUI for calculting the algorithms for the robot cordinates. The name of the file is called Form1BU.cs in C#. 
+Click [here](/GUI/Form1BU.cs) to view the main code for the GUI for calculting the algorithms for the robot coordinates. The name of the file is called Form1BU.cs and is written C#. 
 
 ![ImageText](imageName.JPG?raw=true "Description")
 
