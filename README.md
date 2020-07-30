@@ -16,6 +16,8 @@ The code is split into two parts.
 
 The Robot which has an algorithm for controlling the robot's motor wheels from the (x,y) coordinates which are transmitted and sent to the robot. 
 
+The robot is made by a company called Pololu and a lot of the code for the defintions and headers are written in various AVR C/C++ libaries, these have also been included into this project.  
+
 Click [here](/RobotCode/main.cpp) to view the code for the robot algorithm. The name of the file is called main.cpp and is written in C++.
 
 ## Part 2
