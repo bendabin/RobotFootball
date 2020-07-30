@@ -8,7 +8,7 @@ The code is split into two parts.
 - Part 1 (The Robot which has an algorithm for controlling the robot's motor wheels from the (x,y) coordinates which are transmitted and sent to the robot.
 - Part 2 (The GUI which process images from a Webcam into (x,y) coordinates).
 
-**Bold**For more details on the project report please click [here](/Full_Final_Year_Report.pdf).
+**For more details on the project report please click [here](/Full_Final_Year_Report.pdf).**
 
 ![ImageText](/Images/project_stuff.jpg?raw=true "Complete robot setup") 
 
@@ -22,6 +22,6 @@ Click [here](/RobotCode/main.cpp) to view the code for the robot algorithm. The 
 
 ![ImageText](/Images/GUI1.png?raw=true "The GUI for the project")
 
-**Bold**To view the code for the GUI for calculting the algorithms for the robot coordinates please click [here](/GUI/Form1BU.cs). The name of the file is called Form1BU.cs and is written C#. 
+**To view the code for the GUI for calculting the algorithms for the robot coordinates please click [here](/GUI/Form1BU.cs).** The name of the file is called Form1BU.cs and is written C#. 
 
 
