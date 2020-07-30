@@ -3,7 +3,7 @@
 
 This is a final year University Project, which consists of a GUI(Graphical User Interface) and a Pololu Robot. The main objective of the project is to allow the robot to move a ball to a specified location which is chosen by the user on the GUI screen. Images of the ball are supplied by a Webcam mounted above the robot which are fed to the GUI program, which process the information into (x,y) cordinates and then the coordinates are transmitted back to the robot through a wireless serial link.   
 
-![ImageText](images/project_stuff.JPG?raw=true "Complete robot setup")
+![ImageText](Images/project_stuff.JPG?raw=true "Complete robot setup")
 
 The code is split into two parts. 
 
