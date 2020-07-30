@@ -14,7 +14,7 @@ The code is split into two parts.
 
 ## Part 1 
 
-The Robot has an algorithm for controlling the robot's motor wheels, the movement of the robot is determined by the (x,y) coordinates that the robot reserves from the GUI which are transmitted through a wireless communication. 
+The Robot has an algorithm for controlling the robot's motor wheels, the movement of the robot is determined by the (x,y) coordinates that the robot recieves from the GUI which are transmitted through a wireless communication. 
 
 The Robot is made by a company called Pololu and a uses prewritten code from various AVR C/C++ libaries, these have been included into this project.  The main.cpp file is the actual code for the robot's moving algorithm, click [here](/RobotCode/main.cpp) to view the code which is written in C/C++.
 
